@@ -1,0 +1,22 @@
+Port = 41000
+APIPort = 48000
+GenKeyHex = "THIS_IS_A_PRIVATE_KEY_THAT_IS_FORMATTED_WITH_HEX"
+Formulator = "THIS_IS_A_ADDRESS_OF_THE_FORMULATOR"
+InitGenesisHash = ""
+InitHeight = 0
+InitHash = ""
+InitTimestamp = 0
+StoreRoot = "./fdata"
+RLogHost = ""
+RLogPath = ""
+UseRLog = false
+
+[ObserverKeyMap]
+2JDqMvoJD2HEuTQgYxzTQpjsjXaij26LX14SpmMCcrb = "observer1.demo.io:42000"
+24GwHBY5a6y8xq1yUeZPkQYvKdP3UGRmnDRD2ayQej8 = "observer2.demo.io:42000"
+3qrm7gLe5TSxZcQBJFFqQH5phoy5CXfwrG4V7nKGrMb = "observer3.demo.io:42000"
+4MWTKExjZxfPcZw7N1dqqV25s44VVaNjSSHBHzNeKP6 = "observer4.demo.io:42000"
+2AP4GFuovGqCe6vQnHhKW3fkAP4c4mRpHMq3oa6qj5v = "observer5.demo.io:42000"
+
+[SeedNodeMap]
+3GDmYnCVwm2TJfaMCQzi5nXDSvCjad1UnyNAw1cKfYr = "seednode1.demo.io:43000"

@@ -1,0 +1,20 @@
+ObserverKeys = [
+	"zf1qkobf3Ysv1eufpSXZWSVXpYjQ8nPvYtP67ikscE",
+	"4TaAo1UUk4uP5f75V57SdKuHvXxSTNfaku1MjPG4kWH",
+	"2mUeGQEozLsEk1pzpkFTmtPety4A9zXzRKKeDkNuwJ5",
+	"2LGAx5vvXBhq4CTFTbHL79QRoQzwGbXuUPFv6R9E4Me",
+	"4QDnTWAxHNyHcGtP4JopfDQChMHTABaJBqTuoYngiNt"
+]
+InitGenesisHash = ""
+InitHeight = 0
+InitHash = ""
+InitTimestamp = 0
+Port = 41000
+APIPort = 48000
+StoreRoot = "./ndata"
+
+[SeedNodeMap]
+3yTFnJJqx3wCiK2Edk9f9JwdvdkC4DP4T1y8xYztMkf = "seednode1.fletamain.net:31000"
+3EjA1hKkfYZ4KL1c4f67CfaNwb9fCqUneiYkyQEhsGi = "seednode2.fletamain.net:31000"
+314AUADxjj7nWjeNpR8XEoAh4DdX3ArNHaipPGMFQ4u = "seednode3.fletamain.net:31000"
+3n8QNWd7M839ouauhdHvmgmk4NsLj4qGM6tpfoaLNxc = "seednode4.fletamain.net:31000"
